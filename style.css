@@ -37,6 +37,7 @@ header {
     top: 0;
     padding: 15px 0;
     margin-top: 0px;
+    z-index: 1;
 }
 
 main {
@@ -87,7 +88,7 @@ main {
     color: hsl(0, 94%, 66%);
 }
 
-section {
+ section {
     display: flex;
     width: 100%;
     margin: 20px 0;
@@ -340,4 +341,4 @@ footer {
     color: hsl(0, 100%, 100%);
     text-transform: uppercase;
     font-size: 14px;
-}
+} 
